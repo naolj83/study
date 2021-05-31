@@ -98,7 +98,7 @@ ex) '책상은 인스턴스다' -> '책상은 객체다'
 프로그래밍 관점 -
 1. 클래스 - 데이터와 함수의 결합   
 프로그래밍언어에서 데이터 처리를 위한 데이터 저장형태의 발전과정은 다음과 같다.   
-변수&nbsp;&nbsp;&nbsp;&nbsp;----------->&nbsp;&nbsp;&nbsp;&nbsp;배열&nbsp;&nbsp;&nbsp;&nbsp;----------->&nbsp;&nbsp;&nbsp;&nbsp;구조체&nbsp;&nbsp;&nbsp;&nbsp;----------->&nbsp;&nbsp;&nbsp;&nbsp;클래스   
+변수&nbsp;&nbsp;&nbsp;&nbsp;----------->&nbsp;&nbsp;&nbsp;&nbsp;배열&nbsp;&nbsp;&nbsp;&nbsp;----------->&nbsp;&nbsp;&nbsp;&nbsp;구조체&nbsp;&nbsp;&nbsp;&nbsp;----->&nbsp;&nbsp;&nbsp;&nbsp;클래스   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 1&nbsp;&nbsp;&nbsp;&nbsp;   
 ---------- | ---------- | ---------- | ----------   
