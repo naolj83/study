@@ -368,10 +368,10 @@ public PrintStream printf(Stirng format, Object... args) { . . . }
 ## 5.3 매개변수가 있는 생성자
 생성자도 메서드처럼 매개변수를 선언하여 호출 시 값을 넘겨받아서 인스턴스의 초기화 작업에 사용할 수 있다.
 ```java
-    Car c = new Car( );
-    c.color = "white";       ----->     Car c = new Car("white, "auto", 4);
-    c.gearType = "auto";
-    c.door = 4;
+Car c = new Car( );
+c.color = "white";       ----->     Car c = new Car("white, "auto", 4);
+c.gearType = "auto";
+c.door = 4;
 ```
 
 <br>
